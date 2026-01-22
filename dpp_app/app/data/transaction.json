@@ -1,0 +1,46 @@
+[
+  {
+    "transaction": {
+      "transactionId": "TX-LV-20250318-84921",
+      "sourceSystem": "POS",
+      "purchaseDate": "2025-03-18",
+      "store": {
+        "storeId": "PAR-AVM-01"
+      },
+      "seller": {
+        "sellerId": "SL-4459"
+      },
+      "financials": {
+        "price": 3200,
+        "currency": "EUR",
+        "vat": 640
+      },
+      "returnPolicy": {
+        "policyId": "LV-RTN-STD-2025"
+      },
+      "visibility": "OWNER_ONLY"
+    }
+  },
+  {
+    "transaction": {
+      "transactionId": "TX-LV-20260115-92341",
+      "sourceSystem": "POS",
+      "purchaseDate": "2026-01-15",
+      "store": {
+        "storeId": "NYC-5TH-01"
+      },
+      "seller": {
+        "sellerId": "SL-7821"
+      },
+      "financials": {
+        "price": 2850,
+        "currency": "USD",
+        "vat": 0
+      },
+      "returnPolicy": {
+        "policyId": "LV-RTN-STD-2026"
+      },
+      "visibility": "OWNER_ONLY"
+    }
+  }
+]

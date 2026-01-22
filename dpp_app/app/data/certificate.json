@@ -1,0 +1,34 @@
+[
+  {
+    "certificate": {
+      "certificateId": "LV-DPP-9F3A2C",
+      "productId": "LV-JKT-4521-000987",
+      "transactionId": "TX-LV-20250318-84921",
+      "blockchainHash": null,
+      "productIdHash": "0xhashProductId",
+      "nfcPublicKey": "NFC-94AF2E3C8B10",
+      "blockchainNetwork": "Aura",
+      "authenticationStatus": "AUTHENTIC",
+      "issuedAt": "2025-03-18T14:32:00Z",
+      "manufacturingProofHash": "0xmanufacturingHash",
+      "ownershipEventsAnchored": true,
+      "readOnly": true
+    }
+  },
+  {
+    "certificate": {
+      "certificateId": "LV-DPP-8E2B1D",
+      "productId": "LV-BAG-M27974-001234",
+      "transactionId": "TX-LV-20260115-92341",
+      "blockchainHash": null,
+      "productIdHash": "0xhashProductIdBag",
+      "nfcPublicKey": "NFC-7B2D4F1A9C05",
+      "blockchainNetwork": "Aura",
+      "authenticationStatus": "AUTHENTIC",
+      "issuedAt": "2026-01-15T10:15:00Z",
+      "manufacturingProofHash": "0xmanufacturingHashBag",
+      "ownershipEventsAnchored": true,
+      "readOnly": true
+    }
+  }
+]

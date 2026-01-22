@@ -1,0 +1,97 @@
+[
+  {
+    "productId": "LV-JKT-4521-000987",
+    "materials": {
+      "mainFabric": {
+        "composition": [
+          { "material": "Virgin Wool", "percentage": 98 },
+          { "material": "Elastane", "percentage": 2 }
+        ],
+        "origin": {
+          "fiber": "Merino Wool",
+          "country": "Australia",
+          "certification": "Responsible Wool Standard (RWS)"
+        },
+        "weavingMill": {
+          "city": "Biella",
+          "country": "Italy"
+        }
+      },
+      "lining": {
+        "material": "Cupro",
+        "composition": "100% regenerated fiber",
+        "origin": {
+          "country": "Japan"
+        }
+      },
+      "buttons": {
+        "material": "Natural Horn",
+        "origin": {
+          "country": "Italy"
+        }
+      }
+    },
+    "integrity": {
+      "datasetHash": "0xabc123materialsHash",
+      "anchoredOnChain": true
+    }
+  },
+  {
+    "productId": "LV-BAG-M27974-001234",
+    "materials": {
+      "mainBody": {
+        "composition": [
+          { "material": "Calfskin Leather", "percentage": 100 }
+        ],
+        "origin": {
+          "leather": "Coffee Bean Calfskin",
+          "country": "Italy",
+          "certification": "Leather Working Group (LWG) Gold"
+        },
+        "tannery": {
+          "city": "Tuscany",
+          "country": "Italy"
+        }
+      },
+      "trim": {
+        "material": "Calfskin Leather",
+        "origin": {
+          "country": "France"
+        }
+      },
+      "lining": {
+        "material": "Lambskin Leather",
+        "composition": "100% premium lambskin",
+        "origin": {
+          "country": "Spain"
+        }
+      },
+      "hardware": {
+        "material": "Gold-tone Metal",
+        "finish": "Polished gold plating",
+        "origin": {
+          "country": "Italy"
+        }
+      },
+      "features": {
+        "mainCompartment": "Lock closure",
+        "interiorPocket": "Zipped pocket",
+        "accessories": [
+          "Removable leather pouch",
+          "Name tag",
+          "Key bell"
+        ],
+        "strap": {
+          "type": "Removable and adjustable",
+          "dropMin": "21.7 inches (55 cm)",
+          "dropMax": "24.8 inches (63 cm)"
+        },
+        "handle": "Double leather handles"
+      }
+    },
+    "integrity": {
+      "datasetHash": "0xdef456materialsHash",
+      "anchoredOnChain": true
+    }
+  }
+]

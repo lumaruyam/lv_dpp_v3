@@ -1,0 +1,38 @@
+[
+  {
+    "productId": "LV-JKT-4521-000987",
+    "ownership": {
+      "status": "ACTIVE",
+      "currentOwner": {
+        "clientId": "CL-782134"
+      },
+      "firstActivation": {
+        "transactionId": "TX-LV-20250318-84921",
+        "activatedAt": "2025-03-18T15:01:00Z"
+      },
+      "transferHistory": [],
+      "transferable": true,
+      "resaleEligibility": true,
+      "repairHistoryAnchored": true,
+      "lostItemAlertOptIn": true
+    }
+  },
+  {
+    "productId": "LV-BAG-M27974-001234",
+    "ownership": {
+      "status": "ACTIVE",
+      "currentOwner": {
+        "clientId": "CL-782134"
+      },
+      "firstActivation": {
+        "transactionId": "TX-LV-20260115-92341",
+        "activatedAt": "2026-01-15T10:30:00Z"
+      },
+      "transferHistory": [],
+      "transferable": true,
+      "resaleEligibility": true,
+      "repairHistoryAnchored": true,
+      "lostItemAlertOptIn": true
+    }
+  }
+]

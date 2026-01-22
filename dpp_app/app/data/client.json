@@ -1,0 +1,36 @@
+{
+  "clientId": "CL-782134",
+  "profile": {
+    "firstName": "Alexandre",
+    "lastName": "Dubois",
+    "title": "Mr.",
+    "preferredName": "Alexandre",
+    "consentGiven": true,
+    "privacyPolicyAccepted": true,
+    "communicationPreferences": {
+      "email": true,
+      "sms": false,
+      "post": true
+    }
+  },
+  "membership": {
+    "tier": "Privileged",
+    "since": "2020-06-15",
+    "points": 2840
+  },
+  "preferences": {
+    "language": "en-GB",
+    "currency": "EUR",
+    "preferredStores": ["Paris Champs-Élysées", "London New Bond Street"],
+    "interests": ["Ready-to-Wear", "Leather Goods", "Watches"]
+  },
+  "products": [
+    {
+      "productId": "LV-JKT-4521-000987",
+      "name": "Tailored Wool Jacket",
+      "collection": "Fall–Winter 2025",
+      "purchaseDate": "2025-03-18",
+      "store": "Paris Champs-Élysées"
+    }
+  ]
+}

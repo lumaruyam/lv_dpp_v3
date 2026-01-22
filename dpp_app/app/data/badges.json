@@ -1,0 +1,34 @@
+[
+  {
+    "id": "first-owner",
+    "title": "First Owner",
+    "description": "You activated ownership of this Louis Vuitton piece as its first owner",
+    "criteria": "firstOwner",
+    "image": "/badges/first-owner-stamp.png",
+    "achieved": true
+  },
+  {
+    "id": "craftsmanship-heritage",
+    "title": "Craftsmanship Heritage",
+    "description": "This piece required 18+ hours of artisan craftsmanship",
+    "criteria": "craftsmanshipHours >= 10",
+    "image": "/badges/craftsmanship-heritage-stamp.png",
+    "achieved": true
+  },
+  {
+    "id": "sustainability-guardian",
+    "title": "Sustainability Guardian",
+    "description": "Product repaired 2+ times, extending its lifecycle",
+    "criteria": "repairs >= 2",
+    "image": "/badges/sustainability-guardian-stamp.png",
+    "achieved": true
+  },
+  {
+    "id": "three-year-steward",
+    "title": "Three Year Steward",
+    "description": "Owned this piece for 3+ years",
+    "criteria": "yearsOwned >= 3",
+    "image": "/badges/three-year-steward-stamp.png",
+    "achieved": false
+  }
+]

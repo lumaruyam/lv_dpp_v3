@@ -1,0 +1,38 @@
+[
+  {
+    "productId": "LV-JKT-4521-000987",
+    "environmentalImpact": {
+      "carbonFootprintKgCO2e": 14.8,
+      "waterConsumptionLiters": 620,
+      "energyMix": {
+        "renewablePercentage": 62
+      },
+      "transportFootprint": "Low",
+      "circularityScore": 8.2,
+      "repairabilityRating": "High"
+    },
+    "calculationModel": {
+      "lcaSource": "Internal LVMH LCA Tool",
+      "dynamic": true,
+      "usageBasedAdjustments": true
+    }
+  },
+  {
+    "productId": "LV-BAG-M27974-001234",
+    "environmentalImpact": {
+      "carbonFootprintKgCO2e": 18.6,
+      "waterConsumptionLiters": 890,
+      "energyMix": {
+        "renewablePercentage": 68
+      },
+      "transportFootprint": "Low",
+      "circularityScore": 8.8,
+      "repairabilityRating": "High"
+    },
+    "calculationModel":  {
+      "lcaSource":  "Internal LVMH LCA Tool",
+      "dynamic": true,
+      "usageBasedAdjustments": true
+    }
+  }
+]

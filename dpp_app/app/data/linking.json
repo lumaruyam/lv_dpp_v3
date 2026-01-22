@@ -1,0 +1,22 @@
+[
+  {
+    "productId": "LV-JKT-4521-000987",
+    "chipId": "NFC-94AF2E3C8B10",
+    "certificateId": "LV-DPP-9F3A2C",
+    "blockchainHash": "0x7f83b1a2e93d",
+    "transactionId": "TX-LV-20250318-84921",
+    "clientId": "CL-782134",
+    "storeId": "PAR-AVM-01",
+    "sellerId": "SL-4459"
+  },
+  {
+    "productId": "LV-BAG-M27974-001234",
+    "chipId": "NFC-7B2D4F1A9C05",
+    "certificateId": "LV-DPP-8E2B1D",
+    "blockchainHash": "0x9a62c4f1b85e",
+    "transactionId": "TX-LV-20260115-92341",
+    "clientId": "CL-782134",
+    "storeId": "PAR-AVM-01",
+    "sellerId": "SL-4459"
+  }
+]

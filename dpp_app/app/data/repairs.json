@@ -1,0 +1,35 @@
+[
+  {
+    "repairId": "R-20250319-001",
+    "productId": "LV-JKT-4521-000987",
+    "ownerId": "CL-782134",
+    "repairType": "Button Replacement",
+    "status": "Completed",
+    "date": "2025-03-20",
+    "notes": "Horn buttons replaced with original Louis Vuitton hardware",
+    "carbonSavedKg": 2.4,
+    "completedBy": "Artisan M. Dubois, Paris Atelier"
+  },
+  {
+    "repairId": "R-20240815-087",
+    "productId": "LV-JKT-4521-000987",
+    "ownerId": "CL-782134",
+    "repairType": "Lining Reinforcement",
+    "status": "Completed",
+    "date": "2024-08-15",
+    "notes": "Interior lining reinforced at shoulder seams",
+    "carbonSavedKg": 1.8,
+    "completedBy": "Artisan L. Martin, Venice Atelier"
+  },
+  {
+    "repairId": "R-20260205-042",
+    "productId": "LV-BAG-M27974-001234",
+    "ownerId": "CL-891456",
+    "repairType": "Handle Conditioning",
+    "status": "Completed",
+    "date": "2026-02-05",
+    "notes": "Premium leather conditioning applied to handles and trim",
+    "carbonSavedKg": 1.2,
+    "completedBy":  "Artisan J. Chen, New York Atelier"
+  }
+]

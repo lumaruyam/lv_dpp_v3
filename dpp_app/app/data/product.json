@@ -1,0 +1,34 @@
+[
+  {
+    "productId": "LV-JKT-4521-000987",
+    "name": "Tailored Wool Jacket",
+    "collection": "Fall–Winter 2025",
+    "category": "Ready-to-Wear – Outerwear",
+    "styleCode": "LV-JKT-4521",
+    "size": "48",
+    "color": "Midnight Navy",
+    "fit": "Regular",
+    "manufactureDate": "2025-03",
+    "madeIn": "Italy",
+    "digitalId": "LV-DPP-9F3A2C",
+    "authenticationStatus": "AUTHENTIC",
+    "craftsmanshipHours": 18,
+    "atelierId": "IT-VEN-AT-03"
+  },
+  {
+    "productId": "LV-BAG-M27974-001234",
+    "name": "Speedy P9",
+    "collection": "Spring–Summer 2026",
+    "category": "Leather Goods – Handbags",
+    "styleCode": "M27974",
+    "size":  "Medium",
+    "color": "Coffee",
+    "material": "Calfskin Leather",
+    "manufactureDate": "2026-01",
+    "madeIn": "France",
+    "digitalId":  "LV-DPP-8E2B1D",
+    "authenticationStatus":  "AUTHENTIC",
+    "craftsmanshipHours": 24,
+    "atelierId": "FR-PAR-AT-12"
+  }
+]

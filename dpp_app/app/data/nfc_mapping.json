@@ -1,0 +1,20 @@
+[
+  {
+    "nfcUid": "NFC-94AF2E3C8B10",
+    "productId": "LV-JKT-4521-000987",
+    "certificateId": "LV-DPP-9F3A2C",
+    "blockchainHash": "0x7f83b1a2e93d",
+    "transactionId": "TX-LV-20250318-84921",
+    "ownerId": "CL-782134",
+    "status": "ACTIVE"
+  },
+  {
+    "nfcUid": "NFC-7B2D4F1A9C05",
+    "productId":  "LV-BAG-M27974-001234",
+    "certificateId": "LV-DPP-8E2B1D",
+    "blockchainHash": "0x9a62c4f1b85e",
+    "transactionId": "TX-LV-20260115-92341",
+    "ownerId": "CL-782134",
+    "status": "ACTIVE"
+  }
+]
