@@ -1,6 +1,6 @@
 # Louis Vuitton Digital Product Passport - Complete System
 
-A comprehensive blockchain-verified digital product passport system with AI-powered assistant, built with Next.js 16, featuring QR code generation, wallet integration, ownership transfer, and intelligent customer support.
+A digital product passport system with AI-powered assistant, built with Next.js 16, featuring QR code generation, wallet integration, ownership transfer, and intelligent customer support.
 
 ## 🎯 Project Overview
 
@@ -9,7 +9,7 @@ This project consists of two integrated systems:
 1. **Digital Product Passport (DPP)** - Main blockchain-verified authentication and lifecycle tracking
 2. **Elvia AI Assistant** - Intelligent conversational agent for customer support and product information
 
-## 🎯 What is This?
+## What is This?
 
 A complete **luxury product authentication and lifecycle management system** that combines:
 
@@ -19,7 +19,7 @@ A complete **luxury product authentication and lifecycle management system** tha
 🤖 **AI Assistant** - Intelligent support for care, sustainability, and product info  
 📱 **Mobile-First Design** - Seamless experience across all devices  
 
-### 📊 [View Presentation](https://www.canva.com/design/DAG6obe-x0o/yCsoil3T1EzSA2OwQ1Nksw/edit)
+### 📊 View Presentation:https://www.canva.com/design/DAG6obe-x0o/yCsoil3T1EzSA2OwQ1Nksw/edit
 
 ## 📂 Project Structure
 
