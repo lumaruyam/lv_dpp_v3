@@ -180,7 +180,7 @@ elif st.session_state.page == "home":
             """, unsafe_allow_html=True)
             st.button(f"voir le passeport de {item['name']}", key=item['id'])
 
-    if st.button("✨ ENREGISTRER UNE NOUVELLE PIÈCE"):
+    if st.button("✨ Trouve une nouvelle pièce à ajouter à ma collection ✨"):
         st.session_state.page = "add_product"; st.rerun()
 
 elif st.session_state.page == "add_product":
